@@ -1,0 +1,334 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Completion rate for youth of upper secondary education school age,2015,14.36536,Female,,%,,,,Total
+Afghanistan,AF,AFG,4,Completion rate for youth of upper secondary education school age,2015,32.315559,Male,,%,,,,Total
+Afghanistan,AF,AFG,4,Completion rate for youth of upper secondary education school age,2015,22.89534,Total,,%,,,,Total
+Albania,AL,ALB,8,Completion rate for youth of upper secondary education school age,2018,79.857063,Female,,%,,,,Total
+Albania,AL,ALB,8,Completion rate for youth of upper secondary education school age,2018,76.226807,Male,,%,,,,Total
+Albania,AL,ALB,8,Completion rate for youth of upper secondary education school age,2018,77.94796,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Completion rate for youth of upper secondary education school age,2020,59.164452,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Completion rate for youth of upper secondary education school age,2020,34.630589,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Completion rate for youth of upper secondary education school age,2020,46.431679,Total,,%,,,,Total
+Angola,AO,AGO,24,Completion rate for youth of upper secondary education school age,2016,15.21019,Female,,%,,,,Total
+Angola,AO,AGO,24,Completion rate for youth of upper secondary education school age,2016,23.698139,Male,,%,,,,Total
+Angola,AO,AGO,24,Completion rate for youth of upper secondary education school age,2016,18.7439,Total,,%,,,,Total
+Argentina,AR,ARG,32,Completion rate for youth of upper secondary education school age,2020,65.963852,Female,,%,,,,Total
+Argentina,AR,ARG,32,Completion rate for youth of upper secondary education school age,2020,54.310711,Male,,%,,,,Total
+Argentina,AR,ARG,32,Completion rate for youth of upper secondary education school age,2020,60.195518,Total,,%,,,,Total
+Armenia,AM,ARM,51,Completion rate for youth of upper secondary education school age,2016,79.394547,Female,,%,,,,Total
+Armenia,AM,ARM,51,Completion rate for youth of upper secondary education school age,2016,68.794182,Male,,%,,,,Total
+Armenia,AM,ARM,51,Completion rate for youth of upper secondary education school age,2016,74.582832,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Completion rate for youth of upper secondary education school age,2019,27.299999,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Completion rate for youth of upper secondary education school age,2019,31.5,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Completion rate for youth of upper secondary education school age,2019,29.4,Total,,%,,,,Total
+Barbados,BB,BRB,52,Completion rate for youth of upper secondary education school age,2012,96.900002,Female,,%,,,,Total
+Barbados,BB,BRB,52,Completion rate for youth of upper secondary education school age,2012,91.199997,Male,,%,,,,Total
+Barbados,BB,BRB,52,Completion rate for youth of upper secondary education school age,2012,93.900002,Total,,%,,,,Total
+Belarus,BY,BLR,112,Completion rate for youth of upper secondary education school age,2020,98.489067,Female,,%,,,,Total
+Belarus,BY,BLR,112,Completion rate for youth of upper secondary education school age,2020,97.82029,Male,,%,,,,Total
+Belarus,BY,BLR,112,Completion rate for youth of upper secondary education school age,2020,98.108932,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Completion rate for youth of upper secondary education school age,2016,50.700001,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Completion rate for youth of upper secondary education school age,2016,47.5,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Completion rate for youth of upper secondary education school age,2016,49.200001,Total,,%,,,,Total
+Benin,BJ,BEN,204,Completion rate for youth of upper secondary education school age,2018,5.4404368,Female,,%,,,,Total
+Benin,BJ,BEN,204,Completion rate for youth of upper secondary education school age,2018,12.06018,Male,,%,,,,Total
+Benin,BJ,BEN,204,Completion rate for youth of upper secondary education school age,2018,8.4086723,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Completion rate for youth of upper secondary education school age,2010,17.700001,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Completion rate for youth of upper secondary education school age,2010,25.1,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Completion rate for youth of upper secondary education school age,2010,21.1,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Completion rate for youth of upper secondary education school age,2016,65.402481,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Completion rate for youth of upper secondary education school age,2016,66.120232,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Completion rate for youth of upper secondary education school age,2016,65.755737,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Completion rate for youth of upper secondary education school age,2012,92,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Completion rate for youth of upper secondary education school age,2012,92.300003,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Completion rate for youth of upper secondary education school age,2012,92.199997,Total,,%,,,,Total
+Botswana,BW,BWA,72,Completion rate for youth of upper secondary education school age,2017,66.400002,Female,,%,,,,Total
+Botswana,BW,BWA,72,Completion rate for youth of upper secondary education school age,2017,55.400002,Male,,%,,,,Total
+Botswana,BW,BWA,72,Completion rate for youth of upper secondary education school age,2017,60.900002,Total,,%,,,,Total
+Brazil,BR,BRA,76,Completion rate for youth of upper secondary education school age,2019,74.699997,Female,,%,,,,Total
+Brazil,BR,BRA,76,Completion rate for youth of upper secondary education school age,2019,64.699997,Male,,%,,,,Total
+Brazil,BR,BRA,76,Completion rate for youth of upper secondary education school age,2019,69.699997,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,Completion rate for youth of upper secondary education school age,2010,2.3,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,Completion rate for youth of upper secondary education school age,2010,6.3000002,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,Completion rate for youth of upper secondary education school age,2010,3.9000001,Total,,%,,,,Total
+Burundi,BI,BDI,108,Completion rate for youth of upper secondary education school age,2017,3.4000001,Female,,%,,,,Total
+Burundi,BI,BDI,108,Completion rate for youth of upper secondary education school age,2017,3.5999999,Male,,%,,,,Total
+Burundi,BI,BDI,108,Completion rate for youth of upper secondary education school age,2017,3.5,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Completion rate for youth of upper secondary education school age,2014,19.799999,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Completion rate for youth of upper secondary education school age,2014,20.1,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Completion rate for youth of upper secondary education school age,2014,19.9,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Completion rate for youth of upper secondary education school age,2018,20.78063,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Completion rate for youth of upper secondary education school age,2018,25.638069,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Completion rate for youth of upper secondary education school age,2018,22.98877,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Completion rate for youth of upper secondary education school age,2019,5.1652322,Female,,%,,,,Total
+Central African Republic,CF,CAF,140,Completion rate for youth of upper secondary education school age,2019,7.5470662,Male,,%,,,,Total
+Central African Republic,CF,CAF,140,Completion rate for youth of upper secondary education school age,2019,6.217989,Total,,%,,,,Total
+Chad,TD,TCD,148,Completion rate for youth of upper secondary education school age,2019,2.7045281,Female,,%,,,,Total
+Chad,TD,TCD,148,Completion rate for youth of upper secondary education school age,2019,6.7123079,Male,,%,,,,Total
+Chad,TD,TCD,148,Completion rate for youth of upper secondary education school age,2019,4.4250321,Total,,%,,,,Total
+Chile,CL,CHL,152,Completion rate for youth of upper secondary education school age,2017,88.080391,Female,,%,,,,Total
+Chile,CL,CHL,152,Completion rate for youth of upper secondary education school age,2017,83.068703,Male,,%,,,,Total
+Chile,CL,CHL,152,Completion rate for youth of upper secondary education school age,2017,85.579773,Total,,%,,,,Total
+China,CN,CHN,156,Completion rate for youth of upper secondary education school age,2015,67.300003,Female,,%,,,,Total
+China,CN,CHN,156,Completion rate for youth of upper secondary education school age,2015,63,Male,,%,,,,Total
+China,CN,CHN,156,Completion rate for youth of upper secondary education school age,2015,65,Total,,%,,,,Total
+Colombia,CO,COL,170,Completion rate for youth of upper secondary education school age,2015,78.236473,Female,,%,,,,Total
+Colombia,CO,COL,170,Completion rate for youth of upper secondary education school age,2015,69.195297,Male,,%,,,,Total
+Colombia,CO,COL,170,Completion rate for youth of upper secondary education school age,2015,73.92572,Total,,%,,,,Total
+Comoros,KM,COM,174,Completion rate for youth of upper secondary education school age,2012,31.700001,Female,,%,,,,Total
+Comoros,KM,COM,174,Completion rate for youth of upper secondary education school age,2012,23.6,Male,,%,,,,Total
+Comoros,KM,COM,174,Completion rate for youth of upper secondary education school age,2012,28.299999,Total,,%,,,,Total
+Congo,CG,COG,178,Completion rate for youth of upper secondary education school age,2015,19.348619,Female,,%,,,,Total
+Congo,CG,COG,178,Completion rate for youth of upper secondary education school age,2015,27.795321,Male,,%,,,,Total
+Congo,CG,COG,178,Completion rate for youth of upper secondary education school age,2015,23.26103,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Completion rate for youth of upper secondary education school age,2018,60.406818,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Completion rate for youth of upper secondary education school age,2018,55.818001,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Completion rate for youth of upper secondary education school age,2018,57.958618,Total,,%,,,,Total
+Cuba,CU,CUB,192,Completion rate for youth of upper secondary education school age,2019,63.468102,Female,,%,,,,Total
+Cuba,CU,CUB,192,Completion rate for youth of upper secondary education school age,2019,54.493649,Male,,%,,,,Total
+Cuba,CU,CUB,192,Completion rate for youth of upper secondary education school age,2019,58.634781,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Completion rate for youth of upper secondary education school age,2017,14.6,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Completion rate for youth of upper secondary education school age,2017,17.200001,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Completion rate for youth of upper secondary education school age,2017,15.8,Total,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Completion rate for youth of upper secondary education school age,2017,100,Female,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Completion rate for youth of upper secondary education school age,2017,99.699997,Male,,%,,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Completion rate for youth of upper secondary education school age,2017,99.900002,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Completion rate for youth of upper secondary education school age,2018,26.74103,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Completion rate for youth of upper secondary education school age,2018,36.384041,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Completion rate for youth of upper secondary education school age,2018,31.136499,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Completion rate for youth of upper secondary education school age,2019,71.418953,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Completion rate for youth of upper secondary education school age,2019,50.961128,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Completion rate for youth of upper secondary education school age,2019,60.69688,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Completion rate for youth of upper secondary education school age,2019,79.400002,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Completion rate for youth of upper secondary education school age,2019,77.699997,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Completion rate for youth of upper secondary education school age,2019,78.5,Total,,%,,,,Total
+Egypt,EG,EGY,818,Completion rate for youth of upper secondary education school age,2014,40.901009,Female,,%,,,,Total
+Egypt,EG,EGY,818,Completion rate for youth of upper secondary education school age,2014,43.02034,Male,,%,,,,Total
+Egypt,EG,EGY,818,Completion rate for youth of upper secondary education school age,2014,41.8937,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Completion rate for youth of upper secondary education school age,2014,36.299999,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Completion rate for youth of upper secondary education school age,2014,33.5,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Completion rate for youth of upper secondary education school age,2014,35,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Completion rate for youth of upper secondary education school age,2014,33.314919,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Completion rate for youth of upper secondary education school age,2014,31.15066,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Completion rate for youth of upper secondary education school age,2014,32.277821,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Completion rate for youth of upper secondary education school age,2016,13.56329,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Completion rate for youth of upper secondary education school age,2016,10.55048,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Completion rate for youth of upper secondary education school age,2016,12.27563,Total,,%,,,,Total
+Gabon,GA,GAB,266,Completion rate for youth of upper secondary education school age,2012,13.78477,Female,,%,,,,Total
+Gabon,GA,GAB,266,Completion rate for youth of upper secondary education school age,2012,13.69669,Male,,%,,,,Total
+Gabon,GA,GAB,266,Completion rate for youth of upper secondary education school age,2012,13.74806,Total,,%,,,,Total
+Gambia,GM,GMB,270,Completion rate for youth of upper secondary education school age,2013,28.23843,Female,,%,,,,Total
+Gambia,GM,GMB,270,Completion rate for youth of upper secondary education school age,2013,32.780609,Male,,%,,,,Total
+Gambia,GM,GMB,270,Completion rate for youth of upper secondary education school age,2013,30.369619,Total,,%,,,,Total
+Georgia,GE,GEO,268,Completion rate for youth of upper secondary education school age,2018,82.90712,Female,,%,,,,Total
+Georgia,GE,GEO,268,Completion rate for youth of upper secondary education school age,2018,79.081383,Male,,%,,,,Total
+Georgia,GE,GEO,268,Completion rate for youth of upper secondary education school age,2018,80.900002,Total,,%,,,,Total
+Ghana,GH,GHA,288,Completion rate for youth of upper secondary education school age,2018,8.7223024,Female,,%,,,,Total
+Ghana,GH,GHA,288,Completion rate for youth of upper secondary education school age,2018,11.68049,Male,,%,,,,Total
+Ghana,GH,GHA,288,Completion rate for youth of upper secondary education school age,2018,10.04279,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Completion rate for youth of upper secondary education school age,2015,25.43832,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Completion rate for youth of upper secondary education school age,2015,27.17853,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Completion rate for youth of upper secondary education school age,2015,26.215269,Total,,%,,,,Total
+Guinea,GN,GIN,324,Completion rate for youth of upper secondary education school age,2018,12.5451,Female,,%,,,,Total
+Guinea,GN,GIN,324,Completion rate for youth of upper secondary education school age,2018,22.02212,Male,,%,,,,Total
+Guinea,GN,GIN,324,Completion rate for youth of upper secondary education school age,2018,16.25728,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Completion rate for youth of upper secondary education school age,2019,8.1030951,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Completion rate for youth of upper secondary education school age,2019,13.71268,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Completion rate for youth of upper secondary education school age,2019,10.77863,Total,,%,,,,Total
+Guyana,GY,GUY,328,Completion rate for youth of upper secondary education school age,2020,67.787537,Female,,%,,,,Total
+Guyana,GY,GUY,328,Completion rate for youth of upper secondary education school age,2020,53.666962,Male,,%,,,,Total
+Guyana,GY,GUY,328,Completion rate for youth of upper secondary education school age,2020,61.344212,Total,,%,,,,Total
+Haiti,HT,HTI,332,Completion rate for youth of upper secondary education school age,2017,16.480619,Female,,%,,,,Total
+Haiti,HT,HTI,332,Completion rate for youth of upper secondary education school age,2017,17.08531,Male,,%,,,,Total
+Haiti,HT,HTI,332,Completion rate for youth of upper secondary education school age,2017,16.754721,Total,,%,,,,Total
+Honduras,HN,HND,340,Completion rate for youth of upper secondary education school age,2019,36.66938,Female,,%,,,,Total
+Honduras,HN,HND,340,Completion rate for youth of upper secondary education school age,2019,29.18779,Male,,%,,,,Total
+Honduras,HN,HND,340,Completion rate for youth of upper secondary education school age,2019,33.002911,Total,,%,,,,Total
+India,IN,IND,356,Completion rate for youth of upper secondary education school age,2016,39.676998,Female,,%,,,,Total
+India,IN,IND,356,Completion rate for youth of upper secondary education school age,2016,46.471001,Male,,%,,,,Total
+India,IN,IND,356,Completion rate for youth of upper secondary education school age,2016,42.951,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Completion rate for youth of upper secondary education school age,2017,62.74955,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Completion rate for youth of upper secondary education school age,2017,63.55323,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Completion rate for youth of upper secondary education school age,2017,63.147881,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Completion rate for youth of upper secondary education school age,2018,43.299999,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Completion rate for youth of upper secondary education school age,2018,45.200001,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Completion rate for youth of upper secondary education school age,2018,44.299999,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Completion rate for youth of upper secondary education school age,2011,83.099998,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Completion rate for youth of upper secondary education school age,2011,80.400002,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Completion rate for youth of upper secondary education school age,2011,81.800003,Total,,%,,,,Total
+Jordan,JO,JOR,400,Completion rate for youth of upper secondary education school age,2018,63.370548,Female,,%,,,,Total
+Jordan,JO,JOR,400,Completion rate for youth of upper secondary education school age,2018,48.789242,Male,,%,,,,Total
+Jordan,JO,JOR,400,Completion rate for youth of upper secondary education school age,2018,55.72213,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Completion rate for youth of upper secondary education school age,2015,95.699997,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Completion rate for youth of upper secondary education school age,2015,94.699997,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Completion rate for youth of upper secondary education school age,2015,95.199997,Total,,%,,,,Total
+Kenya,KE,KEN,404,Completion rate for youth of upper secondary education school age,2014,38.200001,Female,,%,,,,Total
+Kenya,KE,KEN,404,Completion rate for youth of upper secondary education school age,2014,43.900002,Male,,%,,,,Total
+Kenya,KE,KEN,404,Completion rate for youth of upper secondary education school age,2014,40.799999,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Completion rate for youth of upper secondary education school age,2019,20.356689,Female,,%,,,,Total
+Kiribati,KI,KIR,296,Completion rate for youth of upper secondary education school age,2019,12.67272,Male,,%,,,,Total
+Kiribati,KI,KIR,296,Completion rate for youth of upper secondary education school age,2019,16.509899,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Completion rate for youth of upper secondary education school age,2018,84.900002,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Completion rate for youth of upper secondary education school age,2018,89.099998,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Completion rate for youth of upper secondary education school age,2018,86.800003,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Completion rate for youth of upper secondary education school age,2017,30.57342,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Completion rate for youth of upper secondary education school age,2017,31.56905,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Completion rate for youth of upper secondary education school age,2017,31.058281,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Completion rate for youth of upper secondary education school age,2018,36.900002,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Completion rate for youth of upper secondary education school age,2018,26.700001,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Completion rate for youth of upper secondary education school age,2018,31.799999,Total,,%,,,,Total
+Liberia,LR,LBR,430,Completion rate for youth of upper secondary education school age,2013,9.3999996,Female,,%,,,,Total
+Liberia,LR,LBR,430,Completion rate for youth of upper secondary education school age,2013,18,Male,,%,,,,Total
+Liberia,LR,LBR,430,Completion rate for youth of upper secondary education school age,2013,13.4,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Completion rate for youth of upper secondary education school age,2018,15,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Completion rate for youth of upper secondary education school age,2018,15.5,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Completion rate for youth of upper secondary education school age,2018,15.3,Total,,%,,,,Total
+Malawi,MW,MWI,454,Completion rate for youth of upper secondary education school age,2016,12.9,Female,,%,,,,Total
+Malawi,MW,MWI,454,Completion rate for youth of upper secondary education school age,2016,15.3,Male,,%,,,,Total
+Malawi,MW,MWI,454,Completion rate for youth of upper secondary education school age,2016,14,Total,,%,,,,Total
+Mali,ML,MLI,466,Completion rate for youth of upper secondary education school age,2015,11.8,Female,,%,,,,Total
+Mali,ML,MLI,466,Completion rate for youth of upper secondary education school age,2015,23.1,Male,,%,,,,Total
+Mali,ML,MLI,466,Completion rate for youth of upper secondary education school age,2015,16.799999,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Completion rate for youth of upper secondary education school age,2015,23.235689,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Completion rate for youth of upper secondary education school age,2015,31.298059,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Completion rate for youth of upper secondary education school age,2015,26.626789,Total,,%,,,,Total
+Mexico,MX,MEX,484,Completion rate for youth of upper secondary education school age,2018,60.400002,Female,,%,,,,Total
+Mexico,MX,MEX,484,Completion rate for youth of upper secondary education school age,2018,55.900002,Male,,%,,,,Total
+Mexico,MX,MEX,484,Completion rate for youth of upper secondary education school age,2018,58.200001,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Completion rate for youth of upper secondary education school age,2014,73.10305,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Completion rate for youth of upper secondary education school age,2014,60.067669,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Completion rate for youth of upper secondary education school age,2014,66.150703,Total,,%,,,,Total
+Montenegro,ME,MNE,499,Completion rate for youth of upper secondary education school age,2018,89.916656,Female,,%,,,,Total
+Montenegro,ME,MNE,499,Completion rate for youth of upper secondary education school age,2018,82.537247,Male,,%,,,,Total
+Montenegro,ME,MNE,499,Completion rate for youth of upper secondary education school age,2018,86.245087,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Completion rate for youth of upper secondary education school age,2011,5.2646251,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Completion rate for youth of upper secondary education school age,2011,8.3742132,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Completion rate for youth of upper secondary education school age,2011,6.6381321,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Completion rate for youth of upper secondary education school age,2015,19.25675,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Completion rate for youth of upper secondary education school age,2015,13.85098,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Completion rate for youth of upper secondary education school age,2015,16.796431,Total,,%,,,,Total
+Namibia,,NAM,516,Completion rate for youth of upper secondary education school age,2013,39.099998,Female,,%,,,,Total
+Namibia,,NAM,516,Completion rate for youth of upper secondary education school age,2013,33.200001,Male,,%,,,,Total
+Namibia,,NAM,516,Completion rate for youth of upper secondary education school age,2013,36.400002,Total,,%,,,,Total
+Nepal,NP,NPL,524,Completion rate for youth of upper secondary education school age,2019,27.60297,Female,,%,,,,Total
+Nepal,NP,NPL,524,Completion rate for youth of upper secondary education school age,2019,26.8309,Male,,%,,,,Total
+Nepal,NP,NPL,524,Completion rate for youth of upper secondary education school age,2019,27.2705,Total,,%,,,,Total
+Niger,NE,NER,562,Completion rate for youth of upper secondary education school age,2012,1.381436,Female,,%,,,,Total
+Niger,NE,NER,562,Completion rate for youth of upper secondary education school age,2012,3.9006841,Male,,%,,,,Total
+Niger,NE,NER,562,Completion rate for youth of upper secondary education school age,2012,2.1817999,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Completion rate for youth of upper secondary education school age,2018,43.5,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Completion rate for youth of upper secondary education school age,2018,57,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Completion rate for youth of upper secondary education school age,2018,49.200001,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Completion rate for youth of upper secondary education school age,2019,78.927872,Female,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Completion rate for youth of upper secondary education school age,2019,86.400978,Male,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Completion rate for youth of upper secondary education school age,2019,83.012756,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Completion rate for youth of upper secondary education school age,2018,23.328131,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Completion rate for youth of upper secondary education school age,2018,23.559851,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Completion rate for youth of upper secondary education school age,2018,23.43825,Total,,%,,,,Total
+Panama,PA,PAN,591,Completion rate for youth of upper secondary education school age,2013,68.300003,Female,,%,,,,Total
+Panama,PA,PAN,591,Completion rate for youth of upper secondary education school age,2013,56.5,Male,,%,,,,Total
+Panama,PA,PAN,591,Completion rate for youth of upper secondary education school age,2013,62.5,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Completion rate for youth of upper secondary education school age,2017,66.5,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Completion rate for youth of upper secondary education school age,2017,59.700001,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Completion rate for youth of upper secondary education school age,2017,63.099998,Total,,%,,,,Total
+Peru,PE,PER,604,Completion rate for youth of upper secondary education school age,2012,71.699997,Female,,%,,,,Total
+Peru,PE,PER,604,Completion rate for youth of upper secondary education school age,2012,77.699997,Male,,%,,,,Total
+Peru,PE,PER,604,Completion rate for youth of upper secondary education school age,2012,74.800003,Total,,%,,,,Total
+Philippines,PH,PHL,608,Completion rate for youth of upper secondary education school age,2017,83.263893,Female,,%,,,,Total
+Philippines,PH,PHL,608,Completion rate for youth of upper secondary education school age,2017,74.142693,Male,,%,,,,Total
+Philippines,PH,PHL,608,Completion rate for youth of upper secondary education school age,2017,78.315628,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Completion rate for youth of upper secondary education school age,2012,71.110809,Female,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Completion rate for youth of upper secondary education school age,2012,62.686489,Male,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Completion rate for youth of upper secondary education school age,2012,66.812927,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Completion rate for youth of upper secondary education school age,2015,15.9,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Completion rate for youth of upper secondary education school age,2015,19.1,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Completion rate for youth of upper secondary education school age,2015,17.299999,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,Completion rate for youth of upper secondary education school age,2012,89.699997,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,Completion rate for youth of upper secondary education school age,2012,69.599998,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,Completion rate for youth of upper secondary education school age,2012,80.400002,Total,,%,,,,Total
+Samoa,WS,WSM,882,Completion rate for youth of upper secondary education school age,2020,65.603058,Female,,%,,,,Total
+Samoa,WS,WSM,882,Completion rate for youth of upper secondary education school age,2020,47.758202,Male,,%,,,,Total
+Samoa,WS,WSM,882,Completion rate for youth of upper secondary education school age,2020,56.555779,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Completion rate for youth of upper secondary education school age,2019,30.68014,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Completion rate for youth of upper secondary education school age,2019,26.43675,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Completion rate for youth of upper secondary education school age,2019,28.512659,Total,,%,,,,Total
+Senegal,SN,SEN,686,Completion rate for youth of upper secondary education school age,2019,9.7395945,Female,,%,,,,Total
+Senegal,SN,SEN,686,Completion rate for youth of upper secondary education school age,2019,11.26875,Male,,%,,,,Total
+Senegal,SN,SEN,686,Completion rate for youth of upper secondary education school age,2019,10.39117,Total,,%,,,,Total
+Serbia,RS,SRB,688,Completion rate for youth of upper secondary education school age,2019,92.224716,Female,,%,,,,Total
+Serbia,RS,SRB,688,Completion rate for youth of upper secondary education school age,2019,96.424553,Male,,%,,,,Total
+Serbia,RS,SRB,688,Completion rate for youth of upper secondary education school age,2019,94.427223,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Completion rate for youth of upper secondary education school age,2017,17.5,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Completion rate for youth of upper secondary education school age,2017,27.4,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Completion rate for youth of upper secondary education school age,2017,21.700001,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Completion rate for youth of upper secondary education school age,2016,51.86681,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Completion rate for youth of upper secondary education school age,2016,44.761429,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Completion rate for youth of upper secondary education school age,2016,48.42963,Total,,%,,,,Total
+South Sudan,SS,SSD,728,Completion rate for youth of upper secondary education school age,2010,4.007863,Female,,%,,,,Total
+South Sudan,SS,SSD,728,Completion rate for youth of upper secondary education school age,2010,11.51429,Male,,%,,,,Total
+South Sudan,SS,SSD,728,Completion rate for youth of upper secondary education school age,2010,6.8728471,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Completion rate for youth of upper secondary education school age,2016,42.653061,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,Completion rate for youth of upper secondary education school age,2016,32.289532,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,Completion rate for youth of upper secondary education school age,2016,37.65617,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Completion rate for youth of upper secondary education school age,2020,73.594498,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Completion rate for youth of upper secondary education school age,2020,51.215038,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Completion rate for youth of upper secondary education school age,2020,62.43668,Total,,%,,,,Total
+Sudan,SD,SDN,736,Completion rate for youth of upper secondary education school age,2014,28.1437,Female,,%,,,,Total
+Sudan,SD,SDN,736,Completion rate for youth of upper secondary education school age,2014,33.15023,Male,,%,,,,Total
+Sudan,SD,SDN,736,Completion rate for youth of upper secondary education school age,2014,30.54019,Total,,%,,,,Total
+Suriname,SR,SUR,740,Completion rate for youth of upper secondary education school age,2018,26.467779,Female,,%,,,,Total
+Suriname,SR,SUR,740,Completion rate for youth of upper secondary education school age,2018,18.206461,Male,,%,,,,Total
+Suriname,SR,SUR,740,Completion rate for youth of upper secondary education school age,2018,22.25979,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Completion rate for youth of upper secondary education school age,2017,62.71093,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Completion rate for youth of upper secondary education school age,2017,80.348846,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Completion rate for youth of upper secondary education school age,2017,69.537643,Total,,%,,,,Total
+Thailand,TH,THA,764,Completion rate for youth of upper secondary education school age,2019,71.667732,Female,,%,,,,Total
+Thailand,TH,THA,764,Completion rate for youth of upper secondary education school age,2019,59.423611,Male,,%,,,,Total
+Thailand,TH,THA,764,Completion rate for youth of upper secondary education school age,2019,65.228394,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Completion rate for youth of upper secondary education school age,2016,54.656509,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Completion rate for youth of upper secondary education school age,2016,49.078838,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Completion rate for youth of upper secondary education school age,2016,51.95586,Total,,%,,,,Total
+Togo,TG,TGO,768,Completion rate for youth of upper secondary education school age,2017,11.92323,Female,,%,,,,Total
+Togo,TG,TGO,768,Completion rate for youth of upper secondary education school age,2017,31.181789,Male,,%,,,,Total
+Togo,TG,TGO,768,Completion rate for youth of upper secondary education school age,2017,21.219419,Total,,%,,,,Total
+Tonga,TO,TON,776,Completion rate for youth of upper secondary education school age,2019,56.31271,Female,,%,,,,Total
+Tonga,TO,TON,776,Completion rate for youth of upper secondary education school age,2019,45.1824,Male,,%,,,,Total
+Tonga,TO,TON,776,Completion rate for youth of upper secondary education school age,2019,50.928162,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Completion rate for youth of upper secondary education school age,2018,57.400002,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Completion rate for youth of upper secondary education school age,2018,40.099998,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Completion rate for youth of upper secondary education school age,2018,48.700001,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,Completion rate for youth of upper secondary education school age,2019,97.224037,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,Completion rate for youth of upper secondary education school age,2019,96.631203,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,Completion rate for youth of upper secondary education school age,2019,96.93737,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Completion rate for youth of upper secondary education school age,2020,95.88662,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Completion rate for youth of upper secondary education school age,2020,99.62896,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Completion rate for youth of upper secondary education school age,2020,97.688927,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,Completion rate for youth of upper secondary education school age,2020,60.479,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,Completion rate for youth of upper secondary education school age,2020,45.387081,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,Completion rate for youth of upper secondary education school age,2020,52.63641,Total,,%,,,,Total
+Turkey,TR,TUR,792,Completion rate for youth of upper secondary education school age,2013,43.577709,Female,,%,,,,Total
+Turkey,TR,TUR,792,Completion rate for youth of upper secondary education school age,2013,51.190842,Male,,%,,,,Total
+Turkey,TR,TUR,792,Completion rate for youth of upper secondary education school age,2013,47.49535,Total,,%,,,,Total
+Uganda,UG,UGA,800,Completion rate for youth of upper secondary education school age,2016,15.25169,Female,,%,,,,Total
+Uganda,UG,UGA,800,Completion rate for youth of upper secondary education school age,2016,18.297371,Male,,%,,,,Total
+Uganda,UG,UGA,800,Completion rate for youth of upper secondary education school age,2016,16.58814,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Completion rate for youth of upper secondary education school age,2012,96.800003,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Completion rate for youth of upper secondary education school age,2012,96.900002,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Completion rate for youth of upper secondary education school age,2012,96.800003,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Completion rate for youth of upper secondary education school age,2015,26.9,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Completion rate for youth of upper secondary education school age,2015,32.200001,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Completion rate for youth of upper secondary education school age,2015,29.299999,Total,,%,,,,Total
+Uruguay,UY,URY,858,Completion rate for youth of upper secondary education school age,2013,29.29899,Female,,%,,,,Total
+Uruguay,UY,URY,858,Completion rate for youth of upper secondary education school age,2013,47.933109,Male,,%,,,,Total
+Uruguay,UY,URY,858,Completion rate for youth of upper secondary education school age,2013,37.685638,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Completion rate for youth of upper secondary education school age,2014,61.099998,Female,,%,,,,Total
+Vietnam,VN,VNM,704,Completion rate for youth of upper secondary education school age,2014,50.299999,Male,,%,,,,Total
+Vietnam,VN,VNM,704,Completion rate for youth of upper secondary education school age,2014,55.5,Total,,%,,,,Total
+Yemen,YE,YEM,887,Completion rate for youth of upper secondary education school age,2013,23.4,Female,,%,,,,Total
+Yemen,YE,YEM,887,Completion rate for youth of upper secondary education school age,2013,36.799999,Male,,%,,,,Total
+Yemen,YE,YEM,887,Completion rate for youth of upper secondary education school age,2013,29.5,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Completion rate for youth of upper secondary education school age,2018,26.924601,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Completion rate for youth of upper secondary education school age,2018,33.276039,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Completion rate for youth of upper secondary education school age,2018,29.66189,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Completion rate for youth of upper secondary education school age,2019,13.6,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Completion rate for youth of upper secondary education school age,2019,17.200001,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Completion rate for youth of upper secondary education school age,2019,15.3,Total,,%,,,,Total

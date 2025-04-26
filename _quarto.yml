@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "UNICEF Education Completion: Story & Visualisations"
+  navbar:
+    left:
+      - href: unicef_report.qmd
+        text: Home
+      - about.qmd
+format:
+    html:
+      theme: cosmo
+      toc: true
+      embed-resources: true
+      code-fold: true
+execute:
+  echo: true
+  warning: false
+
